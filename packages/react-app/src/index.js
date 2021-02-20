@@ -13,8 +13,8 @@ export const notifi = new EnqueNotifi({
 
 let n = 0;
 function Hello() {
-  const [hideDuration, setHideDuration] = useState(3000);
-  const [maxToast, setToast] = useState(3);
+  const hideDuration = 3000;
+  const maxToast = 3;
   return (
     <div
       className="example"
@@ -29,7 +29,7 @@ function Hello() {
       <h1>React Notifi</h1>
       <p>Tiny (1.1kb) toast library for react notifications with animations and stackable toast's feature.",</p>
       <div>
-        <a target="_blank" href="https://github.com/contactyash/react-notifi">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/contactyash/react-notifi">
           Github link
         </a>
       </div>

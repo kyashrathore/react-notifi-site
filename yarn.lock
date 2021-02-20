@@ -12518,6 +12518,13 @@ react-is@^16.12.0, react-is@^16.13.1, react-is@^16.8.1, react-is@^16.8.4, react-
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-notifi@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/react-notifi/-/react-notifi-0.0.11.tgz#fd119a613c4b4245b34471aef9efd814e6bbbfac"
+  integrity sha512-3lxOUF4rik0JGLFf9CCyv9hOCROZssiBRC8TSiDjrZBlzb2HJz6/IxxXQ6aHFS30m3OSGt3X+tt4GAi0Wzvxaw==
+  dependencies:
+    microbundle "^0.13.0"
+
 react-scripts@3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-3.2.0.tgz#58ccd6b4ffa27f1b4d2986cbdcaa916660e9e33c"
