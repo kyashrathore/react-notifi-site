@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react-notifi": "^0.0.12",
+    "react-notifi": "^0.0.13",
     "serve": "^11.3.2"
   },
   "scripts": {
